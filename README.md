@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jemaynar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning f#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me maynard.john.e@gmail.com
 
 <!---
 jemaynar/jemaynar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
